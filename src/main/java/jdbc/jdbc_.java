@@ -47,7 +47,7 @@ public class jdbc_ {
 		
 		
 //		String url = "jdbc:postgresql://localhost:5432/Demo";
-//		String pass = "MIETHrayan123$";
+//		String pass = "********";
 //		String uname = "postgres";
 //		String sql ="Select * from student";
 //		
