@@ -18,7 +18,7 @@ public class jdbc_ {
 		
 		
 //		String url = "jdbc:postgresql://localhost:5432/Demo";
-//		String pass = "MIETHrayan123$";
+//		String pass = "********";
 //		String uname = "postgres";
 //		String sql ="Select s_name from student where s_id=1";
 //		
@@ -105,7 +105,7 @@ public class jdbc_ {
 		
 //		String url ="jdbc:postgresql://localhost:5432/Demo";
 //		String uname ="postgres";
-//		String pass ="MIETHrayan123$";
+//		String pass ="*********";
 //		String qury = "update student set marks =90 where s_id=1";
 //		
 //		
@@ -126,7 +126,7 @@ public class jdbc_ {
 //		
 //		String url ="jdbc:postgresql://localhost:5432/Demo";
 //		String uname ="postgres";
-//		String pass ="MIETHrayan123$";
+//		String pass ="**********";
 //		String qury = "delete from student where s_id=12";
 //		
 //		
@@ -159,7 +159,7 @@ public class jdbc_ {
 		
 		String url ="jdbc:postgresql://localhost:5432/Demo";
 		String uname ="postgres";
-		String pass ="MIETHrayan123$";
+		String pass ="*******";
 		String qury = "insert into student values (?,?,?)";
 		
 		
@@ -195,7 +195,7 @@ public class jdbc_ {
 //		
 //		String url="jdbc:postgresql://localhost:5432/Demo";
 //		String uname="postgres";
-//		String pass="MIETHrayan123$";
+//		String pass="**********";
 ////		String qury="select * from student";
 ////		String qury="insert into student values(9,'john',48)";
 //		String qury="select s_name from student where s_id =3";
